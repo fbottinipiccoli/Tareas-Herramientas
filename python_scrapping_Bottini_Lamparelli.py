@@ -5,7 +5,6 @@ os.chdir("C:/Users/Cristel/Desktop/Carolina/Herramientas computacionales/Clase 3
 
 from wwo_hist import retrieve_hist_data
 
-#### Example code
 # Elegimos la frecuencia de los datos
 # Elegimos las fechas
 # Api: en el website (https://www.worldweatheronline.com/developer/premium-api-explorer.aspx)
