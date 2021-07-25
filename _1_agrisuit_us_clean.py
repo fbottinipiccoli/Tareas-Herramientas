@@ -50,7 +50,7 @@ QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
 # set paths to inputs and outputs
 # NOTE: if you run this script directly from the command line, you can specify relative
 # paths, e.g. mainpath = "../gis_data", but this doesnt work with the QGIS python console
-mainpath = "/Users/magibbons/Desktop/Herramientas/Clase5/input"
+mainpath = "Users/federica/Documents/MAESTRÍA/2trimestre/herramientas computacionales/clase 5/input"
 suitin = "{}/suit/suit/hdr.adf".format(mainpath)
 adm2in = "{}/USA_adm_shp/USA_adm2.shp".format(mainpath)
 outpath = "{}/_output/counties_agrisuit.csv".format(mainpath)
